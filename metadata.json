@@ -1,0 +1,6 @@
+{
+  "name": "Checkout Page",
+  "description": "A simplified checkout page that uses Flutterwave x gigbanc for payments.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
